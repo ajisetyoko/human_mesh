@@ -7,7 +7,8 @@ Prepare enviroments. (Already tested, just have to re built, --> Conda hmr2) --w
 ```
 conda create -n human_mesh python=2.7
 conda activate human_mesh
-pip install -r requirements.txt 
+pip install -r requirements.txt
+cd opendr_77/ 
 python setup.py build
 python setup.py install
 pip install tensorflow==1.3.0
