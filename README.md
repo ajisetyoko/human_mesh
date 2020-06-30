@@ -12,3 +12,12 @@
     cd ../
     python -m demo --img_path data/coco1.png
     ```
+
+2. Install blender to eazy visualization of 3D object
+    
+    <img src="doc/original_output.png" alt="drawing" width="400"/> &nbsp;
+
+    <img src="doc/after_upsampling.png" alt="drawing" width="400"/> 
+    Zoomed into -->
+    <img src="doc/zoomed.png" alt="drawing" width="400"/> 
+2. (Optional) Up-sampling the vertices surfaces 
