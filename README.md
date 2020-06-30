@@ -14,10 +14,8 @@
     ```
 
 2. Install blender to eazy visualization of 3D object
+3. (Optional) Up-sampling the vertices surfaces 
     
-    <img src="doc/original_output.png" alt="drawing" width="400"/> &nbsp;
+    <img src="doc/image857.png" alt="drawing" width="800"/> &nbsp;
 
-    <img src="doc/after_upsampling.png" alt="drawing" width="400"/> 
-    Zoomed into -->
-    <img src="doc/zoomed.png" alt="drawing" width="400"/> 
-2. (Optional) Up-sampling the vertices surfaces 
+4. 
